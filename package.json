@@ -1,0 +1,14 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "First rule based chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Tisson",
+  "license": "ISC",
+  "dependencies": {
+    "xregexp": "5.1.0"
+  }
+}
